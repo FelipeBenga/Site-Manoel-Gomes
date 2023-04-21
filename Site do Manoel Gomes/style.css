@@ -1,0 +1,117 @@
+/*Site Inteiro*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Cabeça*/
+header{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    font-family: "Brush Script MT", cursive;
+    font-size: x-large;
+    padding: 24px 0;
+}
+
+/*Corpo*/
+body{
+    font-family: "Brush Script MT", cursive;
+}
+
+.cabeca-img{
+    width: 20%;
+}
+
+/*Quem*/
+
+.manoel{
+    background-image: linear-gradient(#0000ff, #122475);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 34px 0;
+}
+
+.manoel-img{
+    width: 15%;
+}
+
+.manoel-titulo{
+    padding: 34px 180px;
+}
+
+.manoel-div{
+    width: 35%;
+    font-size: large;
+}
+
+/*Porque*/
+.manoel-2{
+    background-color: #122475;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 34px 0;
+}
+
+.manoel-img-2{
+    width: 15%;
+}
+
+.manoel-titulo-2{
+    padding: 34px 135px;
+}
+
+.manoel-div-2{
+    width: 35%;
+    font-size: large;
+}
+
+/*Compra*/
+.manoel-3{
+    background-color: #122475;
+}
+
+.manoel-img-3{
+    width: 25%;
+    padding:  450px 0 0 725px;
+}
+
+.manoel-titulo-3{
+    vertical-align: top;
+    padding: 0 900px;
+    color: lightgreen;
+    font-size: xx-large;
+}
+
+.manoel-dinheiro{
+
+    vertical-align: top;
+    padding: 0 900px;
+    color: lightgreen;
+    font-size: xx-large;
+}
+
+.manoel-txt-3{
+    vertical-align: top;
+    padding: 0 0 50px 880px;
+
+}
+
+/*Músicas*/
+.manoel-4{
+    background-color: #000000;
+    color:#122475;
+}
+
+.manoel-titulo-4{
+    padding: 0 0 25px 0;
+    text-align: center;
+}
+
+.manoel-musicas{
+    text-align: center;
+}
